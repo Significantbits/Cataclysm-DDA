@@ -8,6 +8,7 @@
 *.tmp
 *.zip
 /WinDepend/
+gfx/MSX_DEAD_PEOPLE/
 /bindist/
 /build/
 /build-start-time
